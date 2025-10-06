@@ -31,8 +31,8 @@ Below is the overall architecture of **TopoTTA**:
 
 Create and activate the environment:
 ```bash
-$ conda create --name TopoTTA --file requirements.txt
-$ conda activate TopoTTA
+conda create --name TopoTTA --file requirements.txt
+conda activate TopoTTA
 ```
 
 ---
