@@ -1,7 +1,7 @@
 # TopoTTA: Topology-Aware Test-Time Adaptation for Unsupervised Anomaly Detection
 
 **Authors:**  
-[Ali Zia](https://ali-zia.me/), [Usman Ali](https://scholar.google.com/citations?user=2A32xVQAAAAJ&hl=en) [Abdul Rehman](https://scholar.google.com/citations?user=ZTuS-yUAAAAJ&hl=en), [Umer Ramzan](https://scholar.google.com/citations?user=D3AhoccAAAAJ&hl=en), [Waqas Ali](https://scholar.google.com/citations?user=J8_Ko78AAAAJ&hl=en), [Wei Xiang](https://scholar.google.com/citations?user=VxQUr90AAAAJ&hl=en)
+[Ali Zia](https://ali-zia.me/), [Usman Ali](https://scholar.google.com/citations?user=2A32xVQAAAAJ&hl=en), [Abdul Rehman](https://scholar.google.com/citations?user=ZTuS-yUAAAAJ&hl=en), [Umer Ramzan](https://scholar.google.com/citations?user=D3AhoccAAAAJ&hl=en), [Waqas Ali](https://scholar.google.com/citations?user=J8_Ko78AAAAJ&hl=en), [Wei Xiang](https://scholar.google.com/citations?user=VxQUr90AAAAJ&hl=en)
 
 ---
 
