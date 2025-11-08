@@ -151,10 +151,10 @@ def main():
         if SAVE_BASE:
             save_combined_plot(img01, gt_bool, mlp_mask.astype(np.uint8), os.path.join(SAVE_BASE, f'combined_mlp_{idx}.png'))
 
-    macro_mlp = mean(per_sample_records_mlp)
+    summary_mlp = mean(per_sample_records_mlp)
 
-    print('\n[SUMMARY - MACRO (MLP)]')
-    print(macro_mlp)
+    print('\n[SUMMARY - MLP)]')
+    print(summary_mlp)
 
     if SAVE_BASE:
         quantitative_dir = os.path.join(SAVE_BASE, 'quantitative')
