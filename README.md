@@ -12,11 +12,12 @@
   <a href="https://scholar.google.com/citations?user=VxQUr90AAAAJ&hl">Wei Xiang</a><sup>1</sup>
 </p>
 <p>
-  1. School of Computing, Engineering and Mathematical Sciences, La Trobe University, Melbourne, Australia<br>
-  2. School of Engineering and Applied Sciences, GIFT University, Gujranwala, Pakistan<br>
-  3. Sino-Pak Centre for Artificial Intelligence, Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, Haripur, Pakistan
+  <sup>1</sup> School of Computing, Engineering and Mathematical Sciences, La Trobe University, Melbourne, Australia<br>
+  <sup>2</sup> School of Engineering and Applied Sciences, GIFT University, Gujranwala, Pakistan<br>
+  <sup>3</sup> Sino-Pak Centre for Artificial Intelligence, Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, Haripur, Pakistan<br>
   † Equal Contribution
 </p>
+
 <a href="https://topotta.github.io">
   <img src="https://img.shields.io/badge/Project%20Page-8A2BE2" alt="Project Page">
 </a>
