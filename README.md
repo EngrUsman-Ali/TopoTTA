@@ -1,36 +1,26 @@
 <div align="center">
 
 <h1>TopoTTA: Topology-Aware Test-Time Adaptation for Unsupervised Anomaly Detection</h1>
-
-<a href="https://topotta.github.io">
-  <img src="https://img.shields.io/badge/Project%20Page-8A2BE2" alt="Project Page">
-</a>
-
 <p>
-  <a href="https://scholar.google.com/citations?user=BVBJ06QAAAAJ">Ali Zia</a> †,1, 
-  <a href="https://scholar.google.com/citations?user=2A32xVQAAAAJ">Usman Ali</a> †,2, 
-  <a href="https://scholar.google.com/citations?user=ZTuS-yUAAAAJ">Abdul Rehman</a> 2, 
-  <a href="https://scholar.google.com/citations?user=D3AhoccAAAAJ">Umer Ramzan</a> 2, 
-  <a href="https://scholar.google.com/citations?user=nIZmei8AAAAJ">Kang Han</a> 1, 
-  <a href="https://scholar.google.com/citations?user=qhs4RWQAAAAJ">Muhammad Faheem</a> 2, 
-  <a href="https://scholar.google.com/citations?user=_pblOBEAAAAJ">Shahnawaz Qureshi</a> 3, 
-  <a href="https://scholar.google.com/citations?user=VxQUr90AAAAJ&hl">Wei Xiang</a> 1
+  <a href="https://scholar.google.com/citations?user=BVBJ06QAAAAJ">Ali Zia</a> †<sup>1</sup>, 
+  <a href="https://scholar.google.com/citations?user=2A32xVQAAAAJ">Usman Ali</a> †<sup>2</sup>, 
+  <a href="https://scholar.google.com/citations?user=ZTuS-yUAAAAJ">Abdul Rehman</a><sup>2</sup>, 
+  <a href="https://scholar.google.com/citations?user=D3AhoccAAAAJ">Umer Ramzan</a><sup>2</sup>, 
+  <a href="https://scholar.google.com/citations?user=nIZmei8AAAAJ">Kang Han</a><sup>1</sup>, 
+  <a href="https://scholar.google.com/citations?user=qhs4RWQAAAAJ">Muhammad Faheem</a><sup>2</sup>, 
+  <a href="https://scholar.google.com/citations?user=_pblOBEAAAAJ">Shahnawaz Qureshi</a><sup>3</sup>, 
+  <a href="https://scholar.google.com/citations?user=VxQUr90AAAAJ&hl">Wei Xiang</a><sup>1</sup>
 </p>
-
 <p>
   1. School of Computing, Engineering and Mathematical Sciences, La Trobe University, Melbourne, Australia<br>
   2. School of Engineering and Applied Sciences, GIFT University, Gujranwala, Pakistan<br>
   3. Sino-Pak Centre for Artificial Intelligence, Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, Haripur, Pakistan
-</p>
-
-<p>
   † Equal Contribution
 </p>
-
+<a href="https://topotta.github.io">
+  <img src="https://img.shields.io/badge/Project%20Page-8A2BE2" alt="Project Page">
+</a>
 </div>
-
-
-
 
 ## 🧠 Overview
 
