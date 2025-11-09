@@ -1,6 +1,6 @@
 # TopoTTA: Topology-Aware Test-Time Adaptation for Unsupervised Anomaly Detection
 
-[![](https://img.shields.io/badge/Project%20Page-8A2BE2)](https://topotta.github.io)&nbsp;
+[![Build](https://github.com/username/repo/workflows/CI/badge.svg)](https://topotta.github.io)&nbsp;
 
 **Authors:**  
 [Ali Zia](https://scholar.google.com/citations?user=BVBJ06QAAAAJ), 
