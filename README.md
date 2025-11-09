@@ -1,24 +1,36 @@
-<p align="center">
-  <h1>TopoTTA: Topology-Aware Test-Time Adaptation for Unsupervised Anomaly Detection</h1>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://topotta.github.io">
-    <img src="https://img.shields.io/badge/Project%20Page-8A2BE2" alt="Project Page">
-  </a>
-</p>
+<h1>TopoTTA: Topology-Aware Test-Time Adaptation for Unsupervised Anomaly Detection</h1>
 
-<p align="center">
+<a href="https://topotta.github.io">
+  <img src="https://img.shields.io/badge/Project%20Page-8A2BE2" alt="Project Page">
+</a>
+
+<p>
   <strong>Authors:</strong><br>
-  <a href="https://scholar.google.com/citations?user=BVBJ06QAAAAJ">Ali Zia</a>, 
-  <a href="https://scholar.google.com/citations?user=2A32xVQAAAAJ">Usman Ali</a>, 
-  <a href="https://scholar.google.com/citations?user=ZTuS-yUAAAAJ">Abdul Rehman</a>, 
-  <a href="https://scholar.google.com/citations?user=D3AhoccAAAAJ">Umer Ramzan</a>, 
-  <a href="https://scholar.google.com/citations?user=nIZmei8AAAAJ">Kang Han</a>, 
-  <a href="https://scholar.google.com/citations?user=qhs4RWQAAAAJ">Muhammad Faheem</a>, 
-  <a href="https://scholar.google.com/citations?user=_pblOBEAAAAJ">Shahnawaz Qureshi</a>, 
-  <a href="https://scholar.google.com/citations?user=VxQUr90AAAAJ&hl">Wei Xiang</a>
+  Ali Zia †,1, 
+  Usman Ali †,2, 
+  Abdul Rehman 2, 
+  Umer Ramzan 2, 
+  Kang Han 1, 
+  Muhammad Faheem 2, 
+  Shahnawaz Qureshi 3, 
+  Wei Xiang 1
 </p>
+
+<p>
+  <strong>Affiliations:</strong><br>
+  1. School of Computing, Engineering and Mathematical Sciences, La Trobe University, Melbourne, Australia<br>
+  2. School of Engineering and Applied Sciences, GIFT University, Gujranwala, Pakistan<br>
+  3. Sino-Pak Centre for Artificial Intelligence, Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, Haripur, Pakistan
+</p>
+
+<p>
+  † Equal Contribution
+</p>
+
+</div>
+
 
 
 ## 🧠 Overview
