@@ -22,8 +22,8 @@ We introduce TopoTTA (Topological Test-Time Adaptation), a novel framework that 
 
 ## 🏗️ Architecture Overview
 
-Below is the overall architecture of **TopoTTA**:
-
+Below is the architecture of **TopoTTA**:
+Given a test image \( I \), an AD\&S method produces an anomaly score map \( \Psi \). A pre-trained feature extractor \( F \) generates dense feature maps from \( I \). Topological pseudo-labels are extracted by applying multi-level cubical complex filtrations (both sublevel and superlevel) to \( \Psi \), producing structurally meaningful binary masks via persistent homology. These masks are fused using EAI to generate sparse pseudo-labels. A lightweight classifier is then trained on selected feature points from \( F(I) \) using these labels and applied across the full feature map to produce a refined binary AS. This test-time adaptation pipeline exploits both intensity-based cues and topological structure to improve segmentation robustness and generalisation.
 ![TopoTTA Architecture](fig/arch.png)
 
 ---
