@@ -1,7 +1,23 @@
 # TopoTTA: Topology-Aware Test-Time Adaptation for Unsupervised Anomaly Detection
 
 **Authors:**  
-[Ali Zia](https://ali-zia.me/), [Usman Ali](https://scholar.google.com/citations?user=2A32xVQAAAAJ&hl=en), [Abdul Rehman](https://scholar.google.com/citations?user=ZTuS-yUAAAAJ&hl=en), [Umer Ramzan](https://scholar.google.com/citations?user=D3AhoccAAAAJ&hl=en), [Waqas Ali](https://scholar.google.com/citations?user=J8_Ko78AAAAJ&hl=en), [Wei Xiang](https://scholar.google.com/citations?user=VxQUr90AAAAJ&hl=en)
+**Authors:**  
+[Ali Zia](https://scholar.google.com/citations?user=BVBJ06QAAAAJ)<sup>†,1</sup>,  
+[Usman Ali](https://scholar.google.com/citations?user=2A32xVQAAAAJ)<sup>†,2</sup>,  
+[Abdul Rehman](https://scholar.google.com/citations?user=ZTuS-yUAAAAJ)<sup>2</sup>,  
+[Umer Ramzan](https://scholar.google.com/citations?user=D3AhoccAAAAJ)<sup>2</sup>,  
+[Kang Han](https://scholar.google.com/citations?user=nIZmei8AAAAJ)<sup>1</sup>,  
+[Muhammad Faheem](https://scholar.google.com/citations?user=qhs4RWQAAAAJ)<sup>2</sup>,  
+[Shahnawaz Qureshi](https://scholar.google.com/citations?user=_pblOBEAAAAJ)<sup>3</sup>,  
+[Wei Xiang](https://scholar.google.com/citations?user=VxQUr90AAAAJ&hl)<sup>1</sup>  
+
+<sup>1</sup> School of Computing, Engineering and Mathematical Sciences, La Trobe University, Melbourne, Australia  
+<sup>2</sup> School of Engineering and Applied Sciences, GIFT University, Gujranwala, Pakistan  
+<sup>3</sup> Sino-Pak Centre for Artificial Intelligence, Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, Haripur, Pakistan  
+
+† Equal contribution  
+**Corresponding Author:** [Ali Zia](mailto:A.Zia@latrobe.edu.au)
+
 
 ---
 
