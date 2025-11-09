@@ -1,4 +1,6 @@
-# TopoTTA: Topology-Aware Test-Time Adaptation for Unsupervised Anomaly Detection
+<p align="center">
+  <h1>TopoTTA: Topology-Aware Test-Time Adaptation for Unsupervised Anomaly Detection</h1>
+</p>
 
 <p align="center">
   <a href="https://topotta.github.io">
@@ -6,17 +8,18 @@
   </a>
 </p>
 
-**Authors:**  
-[Ali Zia](https://scholar.google.com/citations?user=BVBJ06QAAAAJ), 
-[Usman Ali](https://scholar.google.com/citations?user=2A32xVQAAAAJ), 
-[Abdul Rehman](https://scholar.google.com/citations?user=ZTuS-yUAAAAJ), 
-[Umer Ramzan](https://scholar.google.com/citations?user=D3AhoccAAAAJ), 
-[Kang Han](https://scholar.google.com/citations?user=nIZmei8AAAAJ), 
-[Muhammad Faheem](https://scholar.google.com/citations?user=qhs4RWQAAAAJ), 
-[Shahnawaz Qureshi](https://scholar.google.com/citations?user=_pblOBEAAAAJ), 
-[Wei Xiang](https://scholar.google.com/citations?user=VxQUr90AAAAJ&hl)
+<p align="center">
+  <strong>Authors:</strong><br>
+  <a href="https://scholar.google.com/citations?user=BVBJ06QAAAAJ">Ali Zia</a>, 
+  <a href="https://scholar.google.com/citations?user=2A32xVQAAAAJ">Usman Ali</a>, 
+  <a href="https://scholar.google.com/citations?user=ZTuS-yUAAAAJ">Abdul Rehman</a>, 
+  <a href="https://scholar.google.com/citations?user=D3AhoccAAAAJ">Umer Ramzan</a>, 
+  <a href="https://scholar.google.com/citations?user=nIZmei8AAAAJ">Kang Han</a>, 
+  <a href="https://scholar.google.com/citations?user=qhs4RWQAAAAJ">Muhammad Faheem</a>, 
+  <a href="https://scholar.google.com/citations?user=_pblOBEAAAAJ">Shahnawaz Qureshi</a>, 
+  <a href="https://scholar.google.com/citations?user=VxQUr90AAAAJ&hl">Wei Xiang</a>
+</p>
 
----
 
 ## 🧠 Overview
 
